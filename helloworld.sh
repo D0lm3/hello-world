@@ -3,5 +3,9 @@
 #fichier bash pour salutation d'usage
 
 #Le message à afficher
-message='Bonjour tout le monde'
+message='Bonjour cher ami !'
 echo $message
+
+#Ajout de la demande d'identification
+read -p 'Entrez vos prénom et nom : ' prenom nom
+echo "Bienvenue $prenom $nom !"
