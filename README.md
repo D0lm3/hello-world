@@ -5,5 +5,5 @@ C'est parti pour apprendre le versioning !
 Le repo contient :
 1 readme
 1 fichier bash
-1 fichier texte
+1 fichier d'explication
 
