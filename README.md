@@ -1,10 +1,9 @@
 # hello-world
-Tuto prise en main GitHub.
+Premier repo afin de prendre en main Git et GitHub.
 C'est parti pour apprendre le versioning !
 
-#Test sur GitHub
-Clonage du repo, puis modification via VIM puis commit et un petit push !
-
-#Il est temps de nettoyer tout ça !
-Ca n'était plus très propre.
+Le repo contient :
+1 readme
+1 fichier bash
+1 fichier texte
 
