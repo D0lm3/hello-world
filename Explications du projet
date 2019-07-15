@@ -1,4 +1,7 @@
 <b> Explication du projet </b>
 Ce repo a été créé afin d'apprendre l'utilisation d'appli de versioning afin de lancer un projet.
 L'objectif à terme est de pouvoir gérer un projet de création d'appli depuis différents ordinateurs.
-
+Cette appli doit servir à suivre la conformité d'une entreprise, administration, équipe, bureau, etc... 
+à une norme ou à un référentiel de sécurité.
+L'appli sera certainement en C# et comme pour tout nouveau projet, le mieux est de commencer par un bon vieux
+"Hello World" !
